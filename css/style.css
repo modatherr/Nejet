@@ -583,7 +583,8 @@
   }
   
   .kemet-btn:hover {
-    background-color: #7b3f00;
+    background-color: #964B00; /* Keep the same color */
+    color: white;              /* Optional: keep text color the same */
   }
   
 
@@ -784,7 +785,7 @@
     --check-border-width: 7px;
     --check-height: 24px;
     --check-width: 12px;
-    --check-color: #78b13f;
+    --check-color: #964B00;
   
     text-align: center;
     font-family: Arial, sans-serif;
